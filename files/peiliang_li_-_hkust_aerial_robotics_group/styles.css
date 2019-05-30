@@ -29,7 +29,7 @@
 #u0 {
   position:absolute;
   left:170px;
-  top:30px;
+  top:45px;
   width:191px;
   height:82px;
 }
@@ -57,7 +57,7 @@
 #u2 {
   position:absolute;
   left:430px;
-  top:140px;
+  top:102px;
   width:70px;
   height:28px;
 }
@@ -73,7 +73,7 @@
   left:0px;
   top:0px;
   width:759px;
-  height:252px;
+  height:294px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -87,9 +87,9 @@
 #u4 {
   position:absolute;
   left:430px;
-  top:178px;
+  top:140px;
   width:759px;
-  height:252px;
+  height:294px;
   font-size:14px;
   line-height:21px;
 }
@@ -266,8 +266,8 @@
 }
 #u14 {
   position:absolute;
-  left:729px;
-  top:178px;
+  left:714px;
+  top:140px;
   width:127px;
   height:22px;
   overflow:hidden;
@@ -617,8 +617,8 @@
 }
 #u27 {
   position:absolute;
-  left:1023px;
-  top:178px;
+  left:1006px;
+  top:140px;
   width:166px;
   height:22px;
   overflow:hidden;
@@ -627,7 +627,7 @@
 #u28 {
   position:absolute;
   left:430px;
-  top:198px;
+  top:160px;
   width:160px;
   height:22px;
   overflow:hidden;
@@ -636,7 +636,7 @@
 #u29 {
   position:absolute;
   left:680px;
-  top:198px;
+  top:160px;
   width:120px;
   height:22px;
   overflow:hidden;
@@ -645,7 +645,7 @@
 #u30 {
   position:absolute;
   left:618px;
-  top:222px;
+  top:184px;
   width:80px;
   height:22px;
   overflow:hidden;
@@ -654,7 +654,7 @@
 #u31 {
   position:absolute;
   left:537px;
-  top:222px;
+  top:184px;
   width:70px;
   height:22px;
   overflow:hidden;
@@ -663,7 +663,7 @@
 #u32 {
   position:absolute;
   left:787px;
-  top:261px;
+  top:223px;
   width:37px;
   height:22px;
   overflow:hidden;
@@ -672,7 +672,7 @@
 #u33 {
   position:absolute;
   left:430px;
-  top:408px;
+  top:413px;
   width:60px;
   height:22px;
   overflow:hidden;
@@ -681,7 +681,7 @@
 #u34 {
   position:absolute;
   left:490px;
-  top:408px;
+  top:413px;
   width:30px;
   height:22px;
   overflow:hidden;
@@ -690,7 +690,7 @@
 #u35 {
   position:absolute;
   left:520px;
-  top:408px;
+  top:413px;
   width:50px;
   height:22px;
   overflow:hidden;
