@@ -57,7 +57,7 @@
 #u2 {
   position:absolute;
   left:430px;
-  top:102px;
+  top:138px;
   width:70px;
   height:28px;
 }
@@ -73,7 +73,7 @@
   left:0px;
   top:0px;
   width:759px;
-  height:294px;
+  height:252px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -87,9 +87,9 @@
 #u4 {
   position:absolute;
   left:430px;
-  top:140px;
+  top:176px;
   width:759px;
-  height:294px;
+  height:252px;
   font-size:14px;
   line-height:21px;
 }
@@ -267,7 +267,7 @@
 #u14 {
   position:absolute;
   left:714px;
-  top:140px;
+  top:176px;
   width:127px;
   height:22px;
   overflow:hidden;
@@ -618,7 +618,7 @@
 #u27 {
   position:absolute;
   left:1006px;
-  top:140px;
+  top:176px;
   width:166px;
   height:22px;
   overflow:hidden;
@@ -627,7 +627,7 @@
 #u28 {
   position:absolute;
   left:430px;
-  top:160px;
+  top:196px;
   width:160px;
   height:22px;
   overflow:hidden;
@@ -636,7 +636,7 @@
 #u29 {
   position:absolute;
   left:680px;
-  top:160px;
+  top:196px;
   width:120px;
   height:22px;
   overflow:hidden;
@@ -645,7 +645,7 @@
 #u30 {
   position:absolute;
   left:618px;
-  top:184px;
+  top:220px;
   width:80px;
   height:22px;
   overflow:hidden;
@@ -654,7 +654,7 @@
 #u31 {
   position:absolute;
   left:537px;
-  top:184px;
+  top:220px;
   width:70px;
   height:22px;
   overflow:hidden;
@@ -663,7 +663,7 @@
 #u32 {
   position:absolute;
   left:787px;
-  top:223px;
+  top:259px;
   width:37px;
   height:22px;
   overflow:hidden;
@@ -672,7 +672,7 @@
 #u33 {
   position:absolute;
   left:430px;
-  top:413px;
+  top:408px;
   width:60px;
   height:22px;
   overflow:hidden;
@@ -681,7 +681,7 @@
 #u34 {
   position:absolute;
   left:490px;
-  top:413px;
+  top:408px;
   width:30px;
   height:22px;
   overflow:hidden;
@@ -690,7 +690,7 @@
 #u35 {
   position:absolute;
   left:520px;
-  top:413px;
+  top:408px;
   width:50px;
   height:22px;
   overflow:hidden;
