@@ -57,7 +57,7 @@
 #u2 {
   position:absolute;
   left:430px;
-  top:138px;
+  top:131px;
   width:70px;
   height:28px;
 }
@@ -73,7 +73,7 @@
   left:0px;
   top:0px;
   width:759px;
-  height:252px;
+  height:273px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -87,9 +87,9 @@
 #u4 {
   position:absolute;
   left:430px;
-  top:176px;
+  top:169px;
   width:759px;
-  height:252px;
+  height:273px;
   font-size:14px;
   line-height:21px;
 }
@@ -267,7 +267,7 @@
 #u14 {
   position:absolute;
   left:714px;
-  top:176px;
+  top:169px;
   width:127px;
   height:22px;
   overflow:hidden;
@@ -618,7 +618,7 @@
 #u27 {
   position:absolute;
   left:1006px;
-  top:176px;
+  top:169px;
   width:166px;
   height:22px;
   overflow:hidden;
@@ -627,7 +627,7 @@
 #u28 {
   position:absolute;
   left:430px;
-  top:196px;
+  top:189px;
   width:160px;
   height:22px;
   overflow:hidden;
@@ -636,7 +636,7 @@
 #u29 {
   position:absolute;
   left:680px;
-  top:196px;
+  top:189px;
   width:120px;
   height:22px;
   overflow:hidden;
@@ -645,7 +645,7 @@
 #u30 {
   position:absolute;
   left:618px;
-  top:220px;
+  top:213px;
   width:80px;
   height:22px;
   overflow:hidden;
@@ -654,7 +654,7 @@
 #u31 {
   position:absolute;
   left:537px;
-  top:220px;
+  top:213px;
   width:70px;
   height:22px;
   overflow:hidden;
@@ -662,8 +662,8 @@
 }
 #u32 {
   position:absolute;
-  left:1106px;
-  top:260px;
+  left:810px;
+  top:274px;
   width:37px;
   height:22px;
   overflow:hidden;
@@ -672,7 +672,7 @@
 #u33 {
   position:absolute;
   left:430px;
-  top:408px;
+  top:421px;
   width:60px;
   height:22px;
   overflow:hidden;
@@ -681,7 +681,7 @@
 #u34 {
   position:absolute;
   left:490px;
-  top:408px;
+  top:421px;
   width:30px;
   height:22px;
   overflow:hidden;
@@ -690,7 +690,7 @@
 #u35 {
   position:absolute;
   left:520px;
-  top:408px;
+  top:421px;
   width:50px;
   height:22px;
   overflow:hidden;
@@ -1721,4 +1721,31 @@
   top:0px;
   width:36px;
   word-wrap:break-word;
+}
+#u98 {
+  position:absolute;
+  left:665px;
+  top:252px;
+  width:79px;
+  height:22px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u99 {
+  position:absolute;
+  left:929px;
+  top:252px;
+  width:86px;
+  height:22px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
+#u100 {
+  position:absolute;
+  left:822px;
+  top:252px;
+  width:28px;
+  height:22px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
 }
