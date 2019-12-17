@@ -57,7 +57,7 @@
 #u2 {
   position:absolute;
   left:430px;
-  top:131px;
+  top:139px;
   width:70px;
   height:28px;
 }
@@ -73,7 +73,7 @@
   left:0px;
   top:0px;
   width:759px;
-  height:273px;
+  height:252px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -87,9 +87,9 @@
 #u4 {
   position:absolute;
   left:430px;
-  top:169px;
+  top:177px;
   width:759px;
-  height:273px;
+  height:252px;
   font-size:14px;
   line-height:21px;
 }
@@ -267,7 +267,7 @@
 #u14 {
   position:absolute;
   left:714px;
-  top:169px;
+  top:177px;
   width:127px;
   height:22px;
   overflow:hidden;
@@ -618,7 +618,7 @@
 #u27 {
   position:absolute;
   left:1006px;
-  top:169px;
+  top:177px;
   width:166px;
   height:22px;
   overflow:hidden;
@@ -627,7 +627,7 @@
 #u28 {
   position:absolute;
   left:430px;
-  top:189px;
+  top:197px;
   width:160px;
   height:22px;
   overflow:hidden;
@@ -636,7 +636,7 @@
 #u29 {
   position:absolute;
   left:680px;
-  top:189px;
+  top:197px;
   width:120px;
   height:22px;
   overflow:hidden;
@@ -645,7 +645,7 @@
 #u30 {
   position:absolute;
   left:618px;
-  top:213px;
+  top:221px;
   width:80px;
   height:22px;
   overflow:hidden;
@@ -654,7 +654,7 @@
 #u31 {
   position:absolute;
   left:537px;
-  top:213px;
+  top:221px;
   width:70px;
   height:22px;
   overflow:hidden;
@@ -663,7 +663,7 @@
 #u32 {
   position:absolute;
   left:1072px;
-  top:273px;
+  top:281px;
   width:37px;
   height:22px;
   overflow:hidden;
@@ -671,8 +671,8 @@
 }
 #u33 {
   position:absolute;
-  left:430px;
-  top:421px;
+  left:429px;
+  top:408px;
   width:60px;
   height:22px;
   overflow:hidden;
@@ -680,8 +680,8 @@
 }
 #u34 {
   position:absolute;
-  left:490px;
-  top:421px;
+  left:489px;
+  top:408px;
   width:30px;
   height:22px;
   overflow:hidden;
@@ -689,8 +689,8 @@
 }
 #u35 {
   position:absolute;
-  left:520px;
-  top:421px;
+  left:519px;
+  top:408px;
   width:50px;
   height:22px;
   overflow:hidden;
@@ -1725,7 +1725,7 @@
 #u98 {
   position:absolute;
   left:800px;
-  top:252px;
+  top:260px;
   width:79px;
   height:22px;
   overflow:hidden;
@@ -1734,7 +1734,7 @@
 #u99 {
   position:absolute;
   left:430px;
-  top:274px;
+  top:282px;
   width:86px;
   height:22px;
   overflow:hidden;
@@ -1743,7 +1743,7 @@
 #u100 {
   position:absolute;
   left:926px;
-  top:252px;
+  top:260px;
   width:28px;
   height:22px;
   overflow:hidden;
